@@ -1,0 +1,23 @@
+button{
+    color: rgb(17, 21, 21);
+    border: 2cm;
+    background-color: yellow;
+    
+}
+
+body{
+    background-color: rgb(244, 204, 244);
+}
+
+#heading{
+    color: red;
+}
+
+p{
+    color: rgb(78, 33, 92);
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: line-through;
+}

@@ -1,0 +1,6 @@
+#box{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(228, 170, 228);
+    border: 4px solid black;
+}
